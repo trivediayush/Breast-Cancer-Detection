@@ -42,7 +42,7 @@ The dataset used in this project is the Breast Cancer Wisconsin (Diagnostic) dat
     ```
 
 3. **Run the model**:
-    - The model is implemented in `Breast-Cancer.ipynb`. You can run it by executing the following command:
+    - The model is implemented in `Breast_Cancer.ipynb`. You can run it by executing the following command:
 
     - After running the script, the model will make predictions for given input data and print whether the breast cancer is **Malignant** or **Benign**.
 
